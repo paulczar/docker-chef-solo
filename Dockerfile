@@ -1,6 +1,6 @@
-# DOCKER-VERSION 0.4.8
+# DOCKER-VERSION 0.5.3
 
-FROM paulczar/chef-client:12.10
+FROM paulczar/chef-client
 
 MAINTAINER Paul Czarkowski "paul@paulcz.net"
 
